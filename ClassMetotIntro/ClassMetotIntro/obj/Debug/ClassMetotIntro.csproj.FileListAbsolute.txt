@@ -1,7 +1,0 @@
-C:\Users\OEM\Source\Repos\omeruluyy\c-\ClassMetotIntro\ClassMetotIntro\bin\Debug\ClassMetotIntro.exe.config
-C:\Users\OEM\Source\Repos\omeruluyy\c-\ClassMetotIntro\ClassMetotIntro\bin\Debug\ClassMetotIntro.exe
-C:\Users\OEM\Source\Repos\omeruluyy\c-\ClassMetotIntro\ClassMetotIntro\bin\Debug\ClassMetotIntro.pdb
-C:\Users\OEM\Source\Repos\omeruluyy\c-\ClassMetotIntro\ClassMetotIntro\obj\Debug\ClassMetotIntro.csprojAssemblyReference.cache
-C:\Users\OEM\Source\Repos\omeruluyy\c-\ClassMetotIntro\ClassMetotIntro\obj\Debug\ClassMetotIntro.csproj.CoreCompileInputs.cache
-C:\Users\OEM\Source\Repos\omeruluyy\c-\ClassMetotIntro\ClassMetotIntro\obj\Debug\ClassMetotIntro.exe
-C:\Users\OEM\Source\Repos\omeruluyy\c-\ClassMetotIntro\ClassMetotIntro\obj\Debug\ClassMetotIntro.pdb
